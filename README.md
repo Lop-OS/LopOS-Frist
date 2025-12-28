@@ -3,7 +3,7 @@
 <!-- LopOS Logo -->
 <img src="https://raw.githubusercontent.com/Lop-OS/LopOS-Frist/refs/heads/main/lopos.png" alt="LopOS Logo" width="150"/>
 
-[فارسی](https://github.com/Lop-OS/LopOS-Frist/faredme.md)
+[فارسی](https://github.com/Lop-OS/LopOS-Frist/blob/main/faredme.md)
 
 # LopOS
 
